@@ -3,4 +3,8 @@ plugins:
   - jekyll-remote-theme
 
 title: A Real-Time Lyrics Alignment System Using Chroma and Phonetic Features for Classical Singing Performance
-description: Jiyun Park, Taegyun Kwon, Sangeon Yong, and Juhan Nam
+tagline: Jiyun Park, Taegyun Kwon, Sangeon Yong, and Juhan Nam
+show_downloads: false
+author:
+  name: Jiyun Park
+  url: https://laurenceyoon.github.io
