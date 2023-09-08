@@ -10,6 +10,10 @@ This paper presents a real-time lyrics alignment system for classical vocal perf
 First, we improve the lyrics alignment algorithm by finding an optimal combination of chromagram and phonetic posteriorgram (PPG) that capture melodic and phonetics features of the singing voice, respectively. 
 Second, we recast the Schubert Winterreise Dataset (SWD) which contains multiple performance renditions of the same pieces as an evaluation set for the real-time lyrics alignment.
 
-<!-- https://youtu.be/3NdT7UGPuMA -->
+### System Design
+
+![](img/overview.jpg)
+
+### Demo Video
 
 <iframe width="832" height="468" src="https://www.youtube.com/embed/3NdT7UGPuMA?si=2A8cCNHOrEkTsBSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
