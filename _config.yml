@@ -6,9 +6,9 @@ title: A Real-Time Lyrics Alignment System Using Chroma and Phonetic Features fo
 description: Jiyun Park, Taegyun Kwon, Sangeon Yong, and Juhan Nam
 
 email: june@kaist.ac.kr
-author:
-  name: Jiyun Park
-  url: https://laurenceyoon.github.io
+# author:
+#   name: Jiyun Park
+#   url: https://laurenceyoon.github.io
 
 github:
   is_project_page: false

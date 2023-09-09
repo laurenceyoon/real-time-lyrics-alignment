@@ -16,4 +16,6 @@ Second, we recast the Schubert Winterreise Dataset (SWD) which contains multiple
 
 ### Demo Video
 
-<iframe width="832" height="468" src="https://www.youtube.com/embed/3NdT7UGPuMA?si=2A8cCNHOrEkTsBSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="youtube-wrapper">
+  <iframe width="832" height="468" src="https://www.youtube.com/embed/3NdT7UGPuMA?si=2A8cCNHOrEkTsBSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
