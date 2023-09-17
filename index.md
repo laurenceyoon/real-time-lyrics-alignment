@@ -72,4 +72,5 @@ According to the online alignment results from Table 1, our model that uses Chro
 ## Reference
 
 [1] Sangeon Yong, Li Su, and Juhan Nam, “A phoneme-informed neural network model for note-level singing transcription,” in International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023.
+
 [2] Christof Weiß, Frank Zalkow, Vlora Arifi-Müller, Meinard Mu ̈ller, Hendrik Vincent Koops, Anja Volk, and Harald G Grohganz, “Schubert winterreise dataset: A multimodal scenario for music analysis,” Journal on Computing and Cultural Heritage (JOCCH), vol. 14, no. 2, pp. 1–18, 2021.
