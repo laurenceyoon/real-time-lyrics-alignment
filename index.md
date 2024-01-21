@@ -18,14 +18,14 @@ Second, we recast the Schubert Winterreise Dataset (SWD) which contains multiple
 
 ## System Design
 
-![](img/overview.jpg)
+![](assets/img/overview.jpg)
 
 **Figure 1.** An overview of the proposed real-time lyrics alignment system.
 
 ### Offline Phase
 
 <div style="text-align: center;">
-    <img src="./img/offline.jpg"  width="60%">
+    <img src="./assets/img/offline.jpg"  width="60%">
 </div>
 
 **Figure 2.** The pipeline of an offline phase aligning *reference* audio and lyrics by extracting *score* audio and annotation from the symbolic score.
@@ -35,7 +35,7 @@ The offline phase aims to obtain precise alignment between the *reference* audio
 ### Online Phase
 
 <div style="text-align: center;">
-    <img src="./img/online.png"  width="60%">
+    <img src="./assets/img/online.png"  width="60%">
 </div>
 
 The online phase includes online alignment algorithm between target audio and ref audio with feature extraction on the fly. 
@@ -43,7 +43,7 @@ The online phase includes online alignment algorithm between target audio and re
 ### Acoustic Model
 
 <div style="text-align: center;">
-    <img src="./img/classifier.png"  width="60%">
+    <img src="./assets/img/classifier.png"  width="60%">
 </div>
 
 **Figure 3.** The network architecture of the proposed acoustic model
@@ -57,12 +57,12 @@ For detailed information about the dataset, please refer to [here](https://githu
 
 ## Evaluation
 
-![](img/table.png)
+![](assets/img/table.png)
 
 **Table 1.** Results of offline & online alignment on *winterreise_rt* dataset. Offline alignment results are evaluated with each ground-truth(GT) of score and ref, and online alignment results are evaluated with each GT of ref and target using each feature type (all values are averaged over 24 songs with voice note-level evaluation).
 
 <div style="text-align: center;">
-    <img src="./img/discussion.jpg"  width="60%">
+    <img src="./assets/img/discussion.jpg"  width="60%">
 </div>
 
 According to the online alignment results from Table 1, our model that uses Chroma & Phoneme5 outperforms all other feature types in AAE (376 ms) and MAE (136 ms), and is even comparable to the offline results.
