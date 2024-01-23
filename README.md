@@ -10,3 +10,13 @@ The source code of the paper [A Real-Time Lyrics Alignment System Using Chroma A
 ## Data Preparation
 The dataset for evaluation is available at [here](https://github.com/laurenceyoon/winterreise_rt). Please download the dataset and put it under the `data` folder.
 
+## Environment Setup
+
+```bash
+$ conda env create -f environment.yml
+$ conda activate rt-lyrics
+```
+
+## Usage
+
+Open the `evaluation.ipynb` notebook and run the cells.
