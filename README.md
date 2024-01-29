@@ -20,3 +20,19 @@ $ conda activate rt-lyrics
 ## Usage
 
 Open the `evaluation.ipynb` notebook and run the cells.
+
+## License
+
+This project is under the CC-BY-NC 4.0 license. See LICENSE for details.
+
+## Citation
+Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
+
+```
+@article{park2024real,
+  title={A Real-Time Lyrics Alignment System Using Chroma And Phonetic Features For Classical Vocal Performance},
+  author={Park, Jiyun and Yong, Sangeon and Kwon, Taegyun and Nam, Juhan},
+  journal={arXiv preprint arXiv:2401.09200},
+  year={2024}
+}
+```
