@@ -29,10 +29,12 @@ This project is under the CC-BY-NC 4.0 license. See LICENSE for details.
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 
 ```
-@article{park2024real,
-  title={A Real-Time Lyrics Alignment System Using Chroma And Phonetic Features For Classical Vocal Performance},
+@inproceedings{park2024real,
+  title={A Real-Time Lyrics Alignment System Using Chroma and Phonetic Features for Classical Vocal Performance},
   author={Park, Jiyun and Yong, Sangeon and Kwon, Taegyun and Nam, Juhan},
-  journal={arXiv preprint arXiv:2401.09200},
-  year={2024}
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1371--1375},
+  year={2024},
+  organization={IEEE}
 }
 ```
